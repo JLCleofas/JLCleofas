@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Louie and this is my personal repository.
+
+
+- I'm currently working on the Cloud Resume Challenge AWS Edition as my attempt to gain valuable industry experience.
+- I will be talking the AWS Cloud Practitioner Certification exam this December 2024.
+
+I will be adding more to this as time goes by.
