@@ -18,8 +18,13 @@ Here are some ideas to get you started:
 
 My name is Louie and this is my personal repository.
 
+About me:
+  - AWS Certified Cloud Practitioner
+  - Fortinet Certified Associate in Cybersecurity
 
-- I'm currently working on the Cloud Resume Challenge AWS Edition as my attempt to gain valuable industry experience.
-- I will be talking the AWS Cloud Practitioner Certification exam this December 2024.
+You may visit my cloud resume via this url: https://johnlouiecleofas.com
+  - This cloud resume is built using AWS Cloud Technology
 
-I will be adding more to this as time goes by.
+I will be taking PCEP exam.
+
+
