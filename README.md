@@ -21,10 +21,17 @@ My name is Louie and this is my personal repository.
 About me:
   - AWS Certified Cloud Practitioner
   - Fortinet Certified Associate in Cybersecurity
+  - Python Certified Entry-Level Programmer
 
 You may visit my cloud resume via this url: https://johnlouiecleofas.com
   - This cloud resume is built using AWS Cloud Technology
 
-I will be taking PCEP exam.
+I am currently working on:
+  - Enhancing my Python skills
 
+I am currently studying:
+  - For PCAP exam
+  - APIs
+
+I am currently working on an IoT project that involves Raspberry Pi and API.
 
