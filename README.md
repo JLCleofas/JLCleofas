@@ -19,9 +19,19 @@ Here are some ideas to get you started:
 My name is Louie and this is my personal repository.
 
 About me:
+
+I have a Bachelor's Degree in Electronics Engineering Major in Data Science.
+
+I am experienced in both hardware and software engineering.
+
+### Certifications
   - AWS Certified Cloud Practitioner
-  - Fortinet Certified Associate in Cybersecurity
+  ![AWS Certifief Cloud Practitioner Certificate](certifications/CLEOFAS_AWS-CCP_Certificate.png)
   - Python Certified Entry-Level Programmer
+  ![PCEP Certificate](certifications/CLEOFAS_PCEP_Certificate.png)
+  - Fortinet Certified Associate in Cybersecurity
+  ![FCA in Cybersecurity Certificate](certifications/CLEOFAS_FCA-Cybersecurity_Certificate.png)
+
 
 You may visit my cloud resume via this url: https://johnlouiecleofas.com
   - This cloud resume is built using AWS Cloud Technology
