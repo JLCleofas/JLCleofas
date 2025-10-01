@@ -27,6 +27,7 @@ I am experienced in both hardware and software engineering.
 ### Certifications
   - AWS Certified Cloud Practitioner
   ![AWS Certifief Cloud Practitioner Certificate](certifications/CLEOFAS_AWS-CCP_Certificate.png)
+  - Associate Python Programmer
   - Python Certified Entry-Level Programmer
   ![PCEP Certificate](certifications/CLEOFAS_PCEP_Certificate.png)
   - Fortinet Certified Associate in Cybersecurity
@@ -40,7 +41,7 @@ I am currently working on:
   - Enhancing my Python skills
 
 I am currently studying:
-  - For PCAP exam
+  - Django
   - APIs
 
 I am currently working on an IoT project that involves Raspberry Pi and API.
