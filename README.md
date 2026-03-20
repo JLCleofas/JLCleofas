@@ -24,14 +24,14 @@ I have a Bachelor's Degree in Electronics Engineering Major in Data Science.
 
 I am experienced in both hardware and software engineering.
 
-### Certifications
-  - AWS Certified Cloud Practitioner
+## Certifications
+### AWS Certified Cloud Practitioner
   ![AWS Certifief Cloud Practitioner Certificate](certifications/CLEOFAS_AWS-CCP_Certificate.png)
-  - Associate Python Programmer
+### Associate Python Programmer
   ![PCAP Certificate](certifications/CLEOFAS_PCEP_Certificate.png)
-  - Python Certified Entry-Level Programmer
+### Python Certified Entry-Level Programmer
   ![PCEP Certificate](certifications/CLEOFAS_PCEP_Certificate.png)
-  - Fortinet Certified Associate in Cybersecurity
+### Fortinet Certified Associate in Cybersecurity
   ![FCA in Cybersecurity Certificate](certifications/CLEOFAS_FCA-Cybersecurity_Certificate.png)
 
 
