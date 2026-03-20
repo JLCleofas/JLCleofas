@@ -28,6 +28,7 @@ I am experienced in both hardware and software engineering.
   - AWS Certified Cloud Practitioner
   ![AWS Certifief Cloud Practitioner Certificate](certifications/CLEOFAS_AWS-CCP_Certificate.png)
   - Associate Python Programmer
+  ![PCAP Certificate](certifications/CLEOFAS_PCEP_Certificate.png)
   - Python Certified Entry-Level Programmer
   ![PCEP Certificate](certifications/CLEOFAS_PCEP_Certificate.png)
   - Fortinet Certified Associate in Cybersecurity
