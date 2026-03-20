@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ## About me
 Hi, my name is Louie and this is my personal repository. I am interested in AI, Software, and DevOps Engineering. I have my own Home Lab running various services in Proxmox and Docker.
 
+## Professional Experience
+I am currently an AI Application support. I have exposure in Rancher and Kubernetes platform. I am also experience in hardware and maintained production servers, NAS, and Firewalls.
+
 I have a Bachelor's Degree in Electronics Engineering Major in Data Science.
 
 I am experienced in both hardware and software engineering.
