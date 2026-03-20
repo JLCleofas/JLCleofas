@@ -23,10 +23,6 @@ I am currently an AI Application support. I have exposure in Rancher and Kuberne
 
 For more information, you may access my cloud resume running on AWS cloud technology: [Cloud Resume](https://johnlouiecleofas.com "Cloud Resume")
 
-I have a Bachelor's Degree in Electronics Engineering Major in Data Science.
-
-I am experienced in both hardware and software engineering.
-
 ## Certifications
 ### AWS Certified Cloud Practitioner
   ![AWS Certifief Cloud Practitioner Certificate](certifications/CLEOFAS_AWS-CCP_Certificate.png)
@@ -37,6 +33,8 @@ I am experienced in both hardware and software engineering.
 ### Fortinet Certified Associate in Cybersecurity
   ![FCA in Cybersecurity Certificate](certifications/CLEOFAS_FCA-Cybersecurity_Certificate.png)
 
+## Education
+Bachelor's Degree in Electronics Engineering Major in Data Science
 
 I am currently working on:
   - Enhancing my Python skills
