@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-My name is Louie and this is my personal repository.
-
-About me:
+## About me
+Hi, my name is Louie and this is my personal repository. I am interested in AI, Software, and DevOps Engineering. I have my own Home Lab running various services in Proxmox and Docker.
 
 I have a Bachelor's Degree in Electronics Engineering Major in Data Science.
 
