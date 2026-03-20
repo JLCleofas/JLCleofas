@@ -1,19 +1,10 @@
 # Hi there 👋
 
-<!--
-**JLCleofas/JLCleofas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work in progress
+- Learing Django
+- Rebuilding Home lab
+- OpenClaw
+- DevOps Engineering with Docker and Kubernetes
 
 ## About me
 Hi, my name is Louie and this is my personal repository. I am interested in AI, Software, and DevOps Engineering. I have my own Home Lab running various services in Proxmox and Docker.
@@ -35,13 +26,3 @@ For more information, you may access my cloud resume running on AWS cloud techno
 
 ## Education
 Bachelor's Degree in Electronics Engineering Major in Data Science
-
-I am currently working on:
-  - Enhancing my Python skills
-
-I am currently studying:
-  - Django
-  - APIs
-
-I am currently working on an IoT project that involves Raspberry Pi and API.
-
