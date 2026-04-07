@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Work in progress
-- Learing Django
+- Learning Django
 - Rebuilding Home lab
 - OpenClaw
 - DevOps Engineering with Docker and Kubernetes
